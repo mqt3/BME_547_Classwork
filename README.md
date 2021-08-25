@@ -1,1 +1,4 @@
-# BME_547_Classwork
+# Health Database
+
+Author: Michael Tian
+Fall 2021
