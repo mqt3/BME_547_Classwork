@@ -33,6 +33,5 @@ def hdl_analysis(HDL_value):
 
 def hdl_output(HDL_value, HDL_answer):
 	print("The HDL value of {} is considered {}".format(HDL_value, HDL_answer))
-
-
+  
 interface()
